@@ -1,7 +1,6 @@
 # 😂 Random Programming Entertainment
 
-A simple and interactive web application that displays random programming memes, jokes, inspirational quotes, and riddles. Built using **HTML**, **CSS**, and **Vanilla JavaScript**, this project demonstrates DOM manipulation, event handling, random data selection, and dynamic content rendering without using any frameworks. The application provides a fun way for developers to take a short break while coding. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
-
+A simple and interactive web application that displays random programming memes, jokes, inspirational quotes, and riddles. Built using **HTML**, **CSS**, and **Vanilla JavaScript**, this project demonstrates DOM manipulation, event handling, random data selection, and dynamic content rendering without using any frameworks. The application provides a fun way for developers to take a short break while coding.
 ---
 
 
